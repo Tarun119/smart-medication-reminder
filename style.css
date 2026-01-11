@@ -126,6 +126,7 @@ button:active {
 .demo-box {
   max-width: 420px;
   margin: auto;
+  margin-top: 5px;
 }
 
 .led {
